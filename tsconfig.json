@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "es2015",
+    "target": "es5",
+    "moduleResolution": "node",
+    "lib": ["es6", "dom"],
+    "jsx": "react",
+    "noImplicitAny": true,
+    "experimentalDecorators": true
+  },
+  "parcelIsPluginOptions": {
+    "transpileOnly": false
+  }
+}
